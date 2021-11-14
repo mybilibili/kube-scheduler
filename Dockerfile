@@ -1,1 +1,2 @@
-FROM gcr.io/google_containers/kube-scheduler:v1.14.0
+FROM k8s.gcr.io/kube-scheduler:v1.22.3
+MAINTAINER shenyaqi <beaconx@qq.com>
